@@ -2,8 +2,6 @@
 
 <!--
 **student-cd/student-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 - 🔭 **Currently working on:** My PhD research into the genetic factors that contribute to schizophrenia. 
 - 🌱 **Currently learning:** R, Python, and Git.
