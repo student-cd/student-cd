@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 - 🌱 **Currently learning:** R, Python, and Git.
 - 💬 **Ask me about:** ~~my conspiracy theories~~ Linux, small non-coding RNAs and neuro-developmental disorders.
 - 👯 **Open to collaborations:** If you're also researching the genetics of brain development and psychiatric disorders, let's connect!
+- 📧 **cd.public.anon@gmail.com**
 - ⚡ **Fun fact:** I use Arch btw
 
