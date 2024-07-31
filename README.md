@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my PhD research into the genetic factors that contribute to schizophrenia. 
-- 🌱 I’m currently learning: R, python and git
-- 👯 I’m looking to collaborate on analysis of small non-coding RNAs, their role in neuro-development and psychiatric disordes.
-- 💬 Ask me about ~~my conspiracy theories~~ linux and small non-coding RNAs
-- ⚡ Fun fact: I use Arch btw
+- 🔭 **Currently working on:** My PhD research into the genetic factors that contribute to schizophrenia. 
+- 🌱 **Currently learning:** R, Python, and Git.
+- 💬 **Ask me about:** ~~my conspiracy theories~~ Linux, small non-coding RNAs and neuro-developmental disorders.
+- 👯 **Open to collaborations:** If you're also researching the genetics of brain development and psychiatric disorders, let's connect!
+- ⚡ **Fun fact:** I use Arch btw
 
